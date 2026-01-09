@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and other tech stuff
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me at anujsahu@gmail.com 
+- 📫 You can reach me at [inta link]
 - 😄 Pronouns: he
 - ⚡ Fun fact: ...
 
